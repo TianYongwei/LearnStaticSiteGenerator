@@ -13,24 +13,19 @@
 
 ### 搭建静态文件服务器
 
-- [ Nginx 静态文件服务器]()
-- [ Apache 静态文件服务器]()
-- [ Nodejs 静态文件服务器]()
-- [ Tomcat 静态文件服务器]()
-- [ Jetty 静态文件服务器]()
+- [Nginx]()
+- [Apache]()
+- [Nodejs]()
+- [Tomcat]()
+- [Jetty]()
 
 ## 静态网站生成器示例
 
-#### Hexo `Nodejs`
-
-- [Hexo设计思想]()
-- [如何生成静态文件]()
-
-#### Gstsby `Nodejs`
-
-#### Jekyll `Ruby`
+- [Hexo]()
+- [Gstsby]()
+- [Jekyll]()
 
 ###  参考资源
 
-- [静态文件生成器对比](https://www.staticgen.com/)
-- [JAMstack website](https://jamstack.org/)
+- [静态文件生成器对比-https://www.staticgen.com/](https://www.staticgen.com/)
+- [JAMstack website-https://jamstack.org/](https://jamstack.org/)

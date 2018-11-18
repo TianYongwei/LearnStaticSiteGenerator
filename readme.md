@@ -10,11 +10,13 @@
 - [Hexo]()
 - [Gstsby]()
 - [Jekyll]()
+- [Hugo]()
 
 #### 参考资源
 
 - [静态文件生成器对比-https://www.staticgen.com/](https://www.staticgen.com/)
 - [JAMstack website-https://jamstack.org/](https://jamstack.org/)
+- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 
 
 ## 附录

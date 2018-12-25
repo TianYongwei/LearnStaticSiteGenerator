@@ -7,10 +7,10 @@
 
 #### 静态网站生成器示例
 
-- [Hexo]()
-- [Gstsby]()
-- [Jekyll]()
-- [Hugo]()
+- [Hexo——node]()
+- [Gstsby——node]()
+- [Jekyll——ruby]()
+- [Hugo——GO]()
 
 #### 参考资源
 
